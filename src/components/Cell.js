@@ -5,5 +5,6 @@ import { TETROMINOS } from "../tetrominos";
 const Cell = ({ type }) => (
   <StyledCell type={type} color={TETROMINOS[type].color}></StyledCell>
 );
+// React.memo memorized the cell component to decrease re renders
 
-export default Cell;
+export default React.memo(Cell);
