@@ -1,5 +1,5 @@
-# react-hooks-tetris
+# react-hooks-colors
 
-This is a retro tetris game that uses react hooks
+React Hooks Color Picker 
 Deployed on Heroku at:
 https://git.heroku.com/stormy-inlet-89288.git
