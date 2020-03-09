@@ -16,8 +16,10 @@ export default {
     alignItems: "flex-start",
     justifyContent: "center",
     /* background by SVGBackgrounds.com */
-    backgroundColor: "#394bad",
-    backgroundImage: `url(${bg})`,
+    // backgroundColor: "#394bad",
+    // backgroundImage: `url(${bg})`,
+    backgroundColor: "#b1b2c7",
+    backgroundImage: `url("https://www.transparenttextures.com/patterns/asfalt-dark.png")`,
     overflow: "scroll"
   },
   heading: {
